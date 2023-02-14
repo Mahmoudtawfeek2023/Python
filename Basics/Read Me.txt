@@ -1,0 +1,79 @@
+Make the Most of Your Codecademy Membership
+Learn about the different features Codecademy has to offer!
+
+Codecademy has helped tens of millions of people to learn to code, everything from hello world to getting new tech jobs, but when it comes down to it, you get out what you put in. If you want to be best set up for success, this guide is for you.
+
+Valuable Resources
+There are hundreds of hours of free content on Codecademy, and thousands of hours of material available with our paid plans; but no matter your membership level, the key to success is learning intelligently. If you build the habits to use our features, it will be easier for you to master technical skills.
+
+Mobile App
+Keep practicing and stay sharp as you go with our mobile app on iOS and Android.
+
+Workspaces
+Workspaces allow learners to work in their own integrated development environment (IDE) right inside Codecademy. Build or try whatever you want with these unguided sandboxes, share your code, or keep it private. Not sure what to make? Grab code from your coursework and use it as a template.
+
+Workspace Image
+
+Cheatsheets
+Coding is less about memorization and more about understanding principles; cheatsheets help you quickly refresh your memory and get back to work. You can find them linked in lessons, or head to their homepage to find them all, broken down by the course section in which you learned them.
+
+Docs
+Cheatsheets are a handy companion for consuming coursework, but when coding in the real world, programmers need documentation. With Docs, you have an entirely open-source reference material to cover far more than a course can.
+
+Gif of documentation
+
+Learn What to Learn
+Not certain what language to pick up or what career path to choose? Flick through the Learn What to Learn course, where we’ve consolidated the best resources to help you make a choice with confidence. An hour of planning now could save you days of wasted effort later.
+
+There is also an excellent forum post by Galina, one of our curriculum developers, that discusses how to best get started when beginning your coding journey.
+
+Community
+Learning to code is challenging, but it’s easier if you can team up. Ask questions, stay connected, and find motivation with multiple communal experiences through Codecademy:
+
+Community forum: ask and answer questions about anything on Codecademy.
+Discord: chat in real-time with other learners across the globe.
+Chapters: find like-minded people in your area and learn to code together. There are even multiple virtual-first groups to join if you don’t find one nearby.
+Facebook group: discuss the broader world of coding with tens of thousands of other learners.
+30-Day Challenge: join others in a sprint to make progress and make learning a habit.
+Video Library
+Need a break from the IDE but still want to be productive? Watch hundreds of educational and motivational video content on everything from basic coding concepts to career advice, all on-topic and on-platform.
+
+Paid Features
+If you want to supercharge your learning, a paid plan may be right for you. If you want to supercharge your learning, Pro’s the thing for you - Here are some of our most popular paid features.
+
+Upgrade Skills
+
+Paths
+Skill Paths and Career Paths are step-by-step roadmaps that take you through what you need to learn a specific skill or transition to a specific career in tech. They’ll tell you what to learn and in what order, cutting out the guesswork and to the chase. Career Paths cover everything that you’ll find in a $15,000 boot camp curriculum, plus more, and you can team up to tackle them with a cohort group. Pro learners also get access to Interview Prep Skill Paths.
+
+Images of different paths
+
+Projects, Challenge Projects, and Portfolio Projects
+As you learn, you’ll work on guided projects to put the things you’re learning to use. You’ll find a variety of project types. Some offer step-by-step guidance while others offer more of a challenge by only describing the final outcome of the project. If you take a Path, you’ll build your own Portfolio Projects as well, designed to simulate professional coding tasks. The solutions to these portfolio projects will be unique to you! Check out all the projects available to you via the Projects Library.
+
+Gif of a kanban project
+
+Interview prep
+If you’re taking one of our Career Paths, you’ll find interview prep essentials built-in. Learn interview techniques to prepare for technical interviews, including algorithm and data structure practice. Go even further with dedicated skill paths on acing the interview across a range of languages and disciplines.
+
+Practice & Review
+With your Pro membership, you’ll find it easier to brush up on what you’ve learned. Choose for yourself what to practice with links from each module of your coursework. Or let us take the guesswork out with smart practice. Click the practice session link from syllabi and AI will prioritize concepts for you by using spaced repetition — a scientifically proven way of helping you memorize new ideas.
+
+Gif showing practice example
+
+Quizzes
+Test yourself as you make your way through a Path or course. Quizzes help you retain all the things you’re learning — plus, they’ll help you feel confident that you’re mastering the material.
+
+Certificates
+When you complete a Pro course, you’ll earn a certificate. You can share it on your resume or your LinkedIn profile to showcase your skills or prepare for your job search.
+
+Example certificate
+
+In select career paths, we also offer professional certifications. In these paths, you’ll earn a professional certification for passing all of the exams in the path.
+
+Code Challenges
+With technical interviews (and coding in general), practice makes perfect. Now, you can practice real code challenges from actual interviews to see how your skills stack up, or just solve them for fun. If you get stuck, we’ll point you to what you still need to learn. Code challenges are available with Pro.
+
+Conclusion
+If you made it this far, you’re a highly motivated learner - we’re excited to see how far you’ll go, and hope some of the features you learned about today help. Please take a moment to answer two quick questions for feedback on this resource. Happy coding!
+
